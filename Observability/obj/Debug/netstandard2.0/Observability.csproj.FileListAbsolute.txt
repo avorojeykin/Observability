@@ -1,0 +1,30 @@
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.csproj.AssemblyReference.cache
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfoInputs.cache
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfo.cs
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.csproj.CoreCompileInputs.cache
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.deps.json
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.dll
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.pdb
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.dll
+C:\Code\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\obj\Debug\netstandard2.0\Observability.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.deps.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\HealthEdge.Source.Observability\HealthEdge.Source.Observability\HealthEdge.Source.Observability\bin\Debug\netstandard2.0\Observability.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\bin\Debug\netstandard2.0\Observability.deps.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\bin\Debug\netstandard2.0\Observability.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\bin\Debug\netstandard2.0\Observability.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\obj\Debug\netstandard2.0\Observability.pdb
