@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Unknown.Observability</id>
+    <version>1.0.0</version>
+    <authors>Unknown</authors>
+    <description>Observability Package for Application Insights</description>
+    <releaseNotes>Includes logic to populate Log Analytics custom table.</releaseNotes>
+    <copyright>©2023</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Azure.Monitor.OpenTelemetry.Exporter" version="1.0.0-beta.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ApplicationInsights.AspNetCore" version="2.21.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Hosting" version="2.2.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.Console" version="1.2.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Extensions.Hosting" version="1.0.0-rc9" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.AspNetCore" version="1.0.0-rc9" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Http" version="1.0.0-rc9" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.SqlClient" version="1.0.0-rc9" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="108.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\bin\Debug\netstandard2.0\Observability.pdb" target="lib\netstandard2.0\Observability.pdb" />
+    <file src="C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Observability\Observability\Observability\bin\Debug\netstandard2.0\Observability.dll" target="lib\netstandard2.0\Observability.dll" />
+  </files>
+</package>
